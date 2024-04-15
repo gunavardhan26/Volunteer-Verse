@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "0d98",
+      "username": "hi",
+      "password": "hi",
+      "fullname": "hi",
+      "email": "hi@gmail.com",
+      "phone": "1234567890",
+      "country": "india",
+      "address": "Mumbai",
+      "gender": ""
+    },
+    {
+      "id": "253a",
+      "username": "hihello",
+      "password": "hihi",
+      "fullname": "hello",
+      "email": "hello@gmail.com",
+      "phone": "1234567890",
+      "country": "usa",
+      "address": "new york",
+      "gender": ""
+    }
+  ]
+}
