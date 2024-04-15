@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Volunteer-Verse/static/css/main.92e7da84.css",
-    "main.js": "/Volunteer-Verse/static/js/main.801c00f2.js",
+    "main.js": "/Volunteer-Verse/static/js/main.3697d946.js",
     "static/js/453.ced9d3c4.chunk.js": "/Volunteer-Verse/static/js/453.ced9d3c4.chunk.js",
     "index.html": "/Volunteer-Verse/index.html",
     "main.92e7da84.css.map": "/Volunteer-Verse/static/css/main.92e7da84.css.map",
-    "main.801c00f2.js.map": "/Volunteer-Verse/static/js/main.801c00f2.js.map",
+    "main.3697d946.js.map": "/Volunteer-Verse/static/js/main.3697d946.js.map",
     "453.ced9d3c4.chunk.js.map": "/Volunteer-Verse/static/js/453.ced9d3c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92e7da84.css",
-    "static/js/main.801c00f2.js"
+    "static/js/main.3697d946.js"
   ]
 }
